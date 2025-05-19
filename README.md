@@ -19,3 +19,22 @@
 
 --- 
 ##  User Interface
+
+<p align="center">
+  <img src="assets/Screenshots/1.png" width="160"/>
+  <img src="assets/Screenshots/2.png" width="160"/>
+  <img src="assets/Screenshots/3.png" width="160"/>
+  <img src="assets/Screenshots/4.png" width="160"/>
+  <img src="assets/Screenshots/5.png" width="160"/>
+  <img src="assets/Screenshots/6.png" width="160"/>
+</p>
+
+<p align="center">
+  <img src="assets/Screenshots/7.png" width="160"/>
+  <img src="assets/Screenshots/8.png" width="160"/>
+  <img src="assets/Screenshots/9.png" width="160"/>
+  <img src="assets/Screenshots/10.png" width="160"/>
+  <img src="assets/Screenshots/11.png" width="160"/>
+  <img src="assets/Screenshots/12.png" width="160"/>
+</p>
+
