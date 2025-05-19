@@ -30,11 +30,11 @@
 </p>
 
 <p align="center">
-  <img src="assets/Screenshots/7.png" width="160"/>
-  <img src="assets/Screenshots/8.png" width="160"/>
-  <img src="assets/Screenshots/9.png" width="160"/>
-  <img src="assets/Screenshots/10.png" width="160"/>
-  <img src="assets/Screenshots/11.png" width="160"/>
-  <img src="assets/Screenshots/12.png" width="160"/>
+  <img src="assets/Screenshots/7.png" width="130"/>
+  <img src="assets/Screenshots/8.png" width="130"/>
+  <img src="assets/Screenshots/9.png" width="130"/>
+  <img src="assets/Screenshots/10.png" width="130"/>
+  <img src="assets/Screenshots/11.png" width="130"/>
+  <img src="assets/Screenshots/12.png" width="130"/>
 </p>
 
