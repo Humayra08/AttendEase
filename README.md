@@ -39,4 +39,4 @@
 </p>
 
 
-**Some parts of the user interface design were inspired by tutorials and examples from various YouTube videos. As the main goal of this project was to learn and improve skills**
+Some parts of the user interface design were inspired by tutorials and examples from various YouTube videos. As the main goal of this project was to learn and improve skills.
