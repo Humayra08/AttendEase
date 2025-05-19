@@ -21,12 +21,12 @@
 ##  User Interface
 
 <p align="center">
-  <img src="assets/Screenshots/1.png" width="160"/>
-  <img src="assets/Screenshots/2.png" width="160"/>
-  <img src="assets/Screenshots/3.png" width="160"/>
-  <img src="assets/Screenshots/4.png" width="160"/>
-  <img src="assets/Screenshots/5.png" width="160"/>
-  <img src="assets/Screenshots/6.png" width="160"/>
+  <img src="assets/Screenshots/1.png" width="150"/>
+  <img src="assets/Screenshots/2.png" width="150"/>
+  <img src="assets/Screenshots/3.png" width="150"/>
+  <img src="assets/Screenshots/4.png" width="150"/>
+  <img src="assets/Screenshots/5.png" width="150"/>
+  <img src="assets/Screenshots/6.png" width="150"/>
 </p>
 
 <p align="center">
