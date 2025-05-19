@@ -1,16 +1,15 @@
-# attend_easee
+# 📱 AttendEase
 
-A new Flutter project.
+##  Project Details  
+- **Language**: Dart (Flutter)  
+- **Tools & SDKs**: Flutter, Firebase Realtime Database  
+- **IDE**: Android Studio
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+##  App Overview
 
-A few resources to get you started if this is your first Flutter project:
+**AttendEase** is an employee attendance tracking app built with Flutter. With real-time syncing to Firebase and location tagging for attendance validation, it simplifies attendance management in workplaces. The app allows employees to quickly mark their daily attendance, view their attendance history, and helps employers maintain accurate and organized records.
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##  Key Features
